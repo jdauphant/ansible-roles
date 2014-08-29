@@ -1,0 +1,114 @@
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:jdauphant/ansible-role-nginx.git
+[submodule "hostname"]
+	path = hostname
+	url = git@github.com:jdauphant/ansible-role-hostname.git
+[submodule "kvm"]
+	path = kvm
+	url = git@github.com:jdauphant/ansible-role-kvm.git
+[submodule "lang"]
+	path = lang
+	url = git@github.com:jdauphant/ansible-role-lang.git
+[submodule "network"]
+	path = network
+	url = git@github.com:jdauphant/ansible-role-network.git
+[submodule "packaging"]
+	path = packaging
+	url = git@github.com:jdauphant/ansible-role-packaging.git
+[submodule "packerio"]
+	path = packerio
+	url = git@github.com:jdauphant/ansible-role-packerio.git
+[submodule "policies"]
+	path = policies
+	url = git@github.com:jdauphant/ansible-role-policies.git
+[submodule "sudo"]
+	path = sudo
+	url = git@github.com:jdauphant/ansible-role-sudo.git
+[submodule "timezone"]
+	path = timezone
+	url = git@github.com:jdauphant/ansible-role-timezone.git
+[submodule "users"]
+	path = users
+	url = git@github.com:jdauphant/ansible-role-users.git
+[submodule "ssl-certs"]
+	path = ssl-certs
+	url = git@github.com:jdauphant/ansible-role-ssl-certs.git
+[submodule "ntp"]
+	path = ntp
+	url = git@github.com:jdauphant/ansible-role-ntp.git
+[submodule "gsutil"]
+	path = gsutil
+	url = git@github.com:jdauphant/ansible-role-gsutil.git
+[submodule "java"]
+	path = java
+	url = git@github.com:jdauphant/ansible-role-java.git
+[submodule "privoxy"]
+	path = privoxy
+	url = git@github.com:jdauphant/ansible-role-privoxy.git
+[submodule "unbound"]
+	path = unbound
+	url = git@github.com:jdauphant/ansible-role-unbound.git
+[submodule "sublimetext"]
+	path = sublimetext
+	url = git@github.com:jdauphant/ansible-role-sublimetext.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:jdauphant/ansible-role-ansible.git
+[submodule "gnome-shell"]
+	path = gnome-shell
+	url = git@github.com:jdauphant/ansible-role-gnome-shell.git
+[submodule "vagrant"]
+	path = vagrant
+	url = git@github.com:jdauphant/ansible-role-vagrant.git
+[submodule "scala"]
+	path = scala
+	url = git@github.com:jdauphant/ansible-role-scala.git
+[submodule "spotify"]
+	path = spotify
+	url = git@github.com:jdauphant/ansible-role-spotify.git
+[submodule "playframework"]
+	path = playframework
+	url = git@github.com:jdauphant/ansible-role-playframework.git
+[submodule "ssh-config"]
+	path = ssh-config
+	url = git@github.com:jdauphant/ansible-role-ssh-config.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:jdauphant/ansible-role-postgresql.git
+[submodule "php"]
+	path = php
+	url = git@github.com:jdauphant/ansible-role-php.git
+[submodule "ufw"]
+	path = ufw
+	url = git@github.com:jdauphant/ansible-role-ufw.git
+[submodule "openvpnas"]
+	path = openvpnas
+	url = git@github.com:jdauphant/ansible-role-openvpnas.git
+[submodule "monit"]
+	path = monit
+	url = git@github.com:jdauphant/ansible-role-monit.git
+[submodule "zabbix-agent"]
+	path = zabbix-agent
+	url = git@github.com:jdauphant/ansible-role-zabbix-agent.git
+[submodule "dns"]
+	path = dns
+	url = git@github.com:jdauphant/ansible-role-dns.git
+[submodule "tinyproxy"]
+	path = tinyproxy
+	url = git@github.com:jdauphant/ansible-role-tinyproxy.git
+[submodule "zabbix-common"]
+	path = zabbix-common
+	url = git@github.com:jdauphant/ansible-role-zabbix-common.git
+[submodule "limits"]
+	path = limits
+	url = git@github.com:jdauphant/ansible-role-limits.git
+[submodule "tomcat"]
+	path = tomcat
+	url = git@github.com:jdauphant/ansible-role-tomcat.git
+[submodule "postfix"]
+	path = postfix
+	url = git@github.com:jdauphant/ansible-role-postfix.git
+[submodule "zabbix-server"]
+	path = zabbix-server
+	url = git@github.com:jdauphant/ansible-role-zabbix-server.git
